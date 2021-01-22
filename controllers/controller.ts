@@ -35,7 +35,7 @@ export default {
       // NOTE Updating Collection
       await Todo.where({ id: id }).update({ item: todo.item, description: todo.description })
       response.status = 200
-      response.body = 'Entery Updated'
+      response.body = 'Entry Updated'
 
     } catch (error) {
       response.status = 400

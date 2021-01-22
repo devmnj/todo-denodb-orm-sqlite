@@ -1,5 +1,5 @@
 # About
-This is a tutorial for deno begginners `create API using SQLite, Oak-Router, denodb`
+This is a tutorial for deno beginners `create API using SQLite, Oak-Router, denodb`
 
 I recommend use POSTMAN to test the API requests
 
